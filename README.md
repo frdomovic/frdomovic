@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @frdomovic
-- 👀 I’m interested in cyber security, AI , solidity smart contracts
-- 🌱 I’m currently learning ReactJS and Solidity
-- 💞️ I’m looking to collaborate on DEX project
-- 📫 Contact: fd.domovic@gmail.com
-
+Hi, I'm @frdomovic, a software engineer specializing in blockchain technology. 
+My areas of expertise include frontend development, blockchain and cyber security.
+If you have a project in mind that you think could benefit from my skills and experience, 
+please don't hesitate to contact me at fd.domovic@gmail.com. 
+Let's work together to build something great!
